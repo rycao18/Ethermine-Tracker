@@ -1,0 +1,22 @@
+{
+  "name": "ethermine-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rycao18/Ethermine-Tracker.git"
+  },
+  "author": "rycao18",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rycao18/Ethermine-Tracker/issues"
+  },
+  "homepage": "https://github.com/rycao18/Ethermine-Tracker#readme",
+  "dependencies": {
+    "got": "^11.8.2"
+  }
+}
